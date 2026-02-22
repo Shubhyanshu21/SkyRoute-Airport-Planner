@@ -85,7 +85,7 @@ node-backend/
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/YOUR_USERNAME/route-planner.git
+git clone https://github.com/Shubhyanshu21/SkyRoute-Airport-Planner.git
 
 ### 2️⃣ Install Dependencies
 
